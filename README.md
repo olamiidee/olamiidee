@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=olamiidee&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hey there
+  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -33,7 +33,7 @@ I am a Front-End Developer 👨‍💻
 
 - :zap: In my free time, I design cool stuffs.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Olamide-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lami_deh) [![Linkedin Badge](https://img.shields.io/badge/-olamide-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Osibeluwo-olamide/)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Olamide-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lami_deh) [![Linkedin Badge](https://img.shields.io/badge/-Olamide-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Osibeluwo-Olamide/)
 
 ---
 
@@ -44,7 +44,7 @@ I am a Front-End Developer 👨‍💻
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="55" height="55"/>
  
 </div>
 
