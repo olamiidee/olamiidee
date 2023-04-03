@@ -33,7 +33,7 @@ I am a Front-End Developer 👨‍💻
 
 - :zap: In my free time, I design cool stuffs.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-olamiidee-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lami_deh) [![Linkedin Badge](https://img.shields.io/badge/-olamide-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olamide-osibeluwo/)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Olamide-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/lami_deh) [![Linkedin Badge](https://img.shields.io/badge/-olamide-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Osibeluwo-olamide/)
 
 ---
 
